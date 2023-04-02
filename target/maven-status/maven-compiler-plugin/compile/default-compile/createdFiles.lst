@@ -61,7 +61,6 @@ com\project\mycomerce\config\jwt\JwtAuthEntryPoint.class
 com\project\mycomerce\service\master\ICategoryService.class
 com\project\mycomerce\controller\v1\CategoryController.class
 com\project\mycomerce\dto\brand\CreateBrandDto.class
-com\project\mycomerce\service\master\IProductImagesService.class
 com\project\mycomerce\controller\v1\ProductImageController.class
 com\project\mycomerce\repository\master\CategoryRepository.class
 com\project\mycomerce\domain\master\ProductImages.class
