@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-alpine3.14
+FROM maven:3.8.2-jdk-11
 
 EXPOSE 8080
 
