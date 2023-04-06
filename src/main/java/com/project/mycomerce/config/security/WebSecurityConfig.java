@@ -1,4 +1,4 @@
-package com.project.mycomerce.config;
+package com.project.mycomerce.config.security;
 
 
 import com.project.mycomerce.config.jwt.JwtAuthEntryPoint;

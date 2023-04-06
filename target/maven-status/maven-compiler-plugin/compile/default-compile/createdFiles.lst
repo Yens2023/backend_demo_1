@@ -11,7 +11,6 @@ com\project\mycomerce\dto\productimage\UpdateProductImageDto.class
 com\project\mycomerce\controller\v1\UserController.class
 com\project\mycomerce\dto\custom\APIResponse$APIResponseBuilder.class
 com\project\mycomerce\dto\user\CreateUserDto.class
-com\project\mycomerce\config\WebSecurityConfig.class
 com\project\mycomerce\domain\master\Brand.class
 com\project\mycomerce\repository\transaction\OrderItemRepository.class
 com\project\mycomerce\controller\v1\CartController.class
@@ -80,6 +79,7 @@ com\project\mycomerce\dto\brand\ReadBrandDto.class
 com\project\mycomerce\handler\auth\AuthServiceExceptionHandler.class
 com\project\mycomerce\repository\security\RoleRepository.class
 com\project\mycomerce\service\security\Impl\RoleServiceImpl.class
+com\project\mycomerce\config\security\WebSecurityConfig.class
 com\project\mycomerce\repository\transaction\OrderRepository.class
 com\project\mycomerce\dto\product\UpdateProductDto.class
 com\project\mycomerce\domain\transaction\Cart.class
