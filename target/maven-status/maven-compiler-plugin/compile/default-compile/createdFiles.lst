@@ -72,6 +72,7 @@ com\project\mycomerce\dto\cart\UpdateCartDto.class
 com\project\mycomerce\exception\auth\EmailAlreadyExistsExceptionV1.class
 com\project\mycomerce\service\security\UserService.class
 com\project\mycomerce\dto\category\CreateCategoryDto.class
+com\project\mycomerce\config\security\SecurityConfig.class
 com\project\mycomerce\repository\security\UserRepository.class
 com\project\mycomerce\domain\master\Category.class
 com\project\mycomerce\dto\productimage\CreateProductImageDto.class
@@ -79,7 +80,6 @@ com\project\mycomerce\dto\brand\ReadBrandDto.class
 com\project\mycomerce\handler\auth\AuthServiceExceptionHandler.class
 com\project\mycomerce\repository\security\RoleRepository.class
 com\project\mycomerce\service\security\Impl\RoleServiceImpl.class
-com\project\mycomerce\config\security\WebSecurityConfig.class
 com\project\mycomerce\repository\transaction\OrderRepository.class
 com\project\mycomerce\dto\product\UpdateProductDto.class
 com\project\mycomerce\domain\transaction\Cart.class
